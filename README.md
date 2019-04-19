@@ -1,0 +1,2 @@
+# priority-scheduling
+In this program user enters details such as number of processes and burst time, arrival time ,priority of each processes and whenever CPU preempts a process and shifts CPU shifts control to some another process of higher priority i.e Context Switching happens and according to the priority of the process the processes are arranged or sorted accordingly waiting time and turn around time are calculated.
